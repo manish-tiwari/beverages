@@ -17,6 +17,7 @@ are all valid orders.
 As a part of this exercise you have to write a program should be able to compute the total price of the order placed. Remember the order can only be a String.
 
 **Below are the Menu Items with their respective ingredients and prices:**
+
 Coffee: "Coffee, milk, sugar, water" Price: 5$
 Chai: "Tea, milk, sugar, water" Price: 4$
 Banana Smoothie: "banana, milk, sugar, water" Price: 6$
